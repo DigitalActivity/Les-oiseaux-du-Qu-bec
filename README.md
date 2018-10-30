@@ -3,7 +3,7 @@
 
 - Modélisation Gestion de bases de données
 - Cegep Saint-Jean-sur-Richelieu
-- 2017/05/02
+- 2017/02/02
 
 # Consignes
 L’association des ornithologues1 amateurs et professionnels du Québec souhaite mettre sur pied une base de données regroupant les observations des oiseaux du Québec. Cette base de données servira à : 
